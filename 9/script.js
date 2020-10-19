@@ -1,5 +1,4 @@
 function uppgift9() {
     const prov = ["einar" , "filip" , "hampus"]
-    return prov.length
+    prov.toUpperCase
 }
-console.log(prov.length)
